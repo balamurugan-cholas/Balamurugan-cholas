@@ -1,16 +1,66 @@
-## Hi there 👋
+# 👋 Hi, I'm Balamurugan
 
-<!--
-**balamurugan-cholas/Balamurugan-cholas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Science enthusiast with a background in Economics and a strong passion for solving real-world problems using data and code. I combine my analytical mindset with practical development tools to build impactful machine learning and web-based solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 🎓 B.A. Economics graduate from **St. Xavier's College (Autonomous)**
+- 📊 Trained in **Data Science** at **[Malaris Software Solutions](https://www.malaris.com/)**
+- 🚀 Focused on applying machine learning to practical challenges
+- 💬 Native in **Tamil**, fluent in **English**
+
+---
+
+## 🔧 Technical Skills
+
+- **Languages**: Python, SQL  
+- **Libraries**: Pandas, NumPy, scikit-learn, matplotlib, TensorFlow  
+- **ML Techniques**: K-Nearest Neighbors, Decision Trees (basic), Sequential Models, Data Preprocessing  
+- **Image Processing**: Bilateral, Gaussian, Median Filtering  
+- **Web Development for ML Integration**: Flask, Bootstrap, HTML5, CSS3  
+- **Database**: MySQL  
+- **Tools**: VS Code, Jupyter Notebook, Git, GitHub, ChatGPT ⚡
+
+> I use ChatGPT effectively as a productivity partner — I know when to ask, what to share, and how to get things done faster and smarter.
+
+---
+
+## 📁 Projects
+
+### 🩺 [HeartCare](https://github.com/yourusername/HeartCare)  
+> ML-based heart disease detection and prevention system with Flask UI.
+
+### ✨ [Image Enhancement](https://github.com/yourusername/Image-Enhancement)  
+> Image filtering and enhancement using Bilateral, Gaussian, and Median techniques.
+
+### 🛍️ [Vintage](https://github.com/yourusername/Vintage)  
+> E-commerce front-end website for fashion built using Flask and Bootstrap.
+
+---
+
+## 🌐 Portfolio
+
+🔗 [My Portfolio](https://your-portfolio-link.com)
+
+---
+
+## 📫 Connect with Me
+
+- **GitHub**: [github.com/yourusername](https://github.com/balamurugan-cholas)  
+- **LinkedIn**: [linkedin.com/in/yourprofile](https://in.linkedin.com/in/bala-murugan-6b73a7369)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default" height="160"/>
+</p>
+
+---
+
+> “Code is not just instructions — it’s impact.”  
+> Always learning. Always building. Always improving.
