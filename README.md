@@ -56,8 +56,8 @@ I'm a Data Science enthusiast with a background in Economics and a strong passio
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=balamurugan-cholas&show_icons=true&theme=default" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=balamurugan-cholas&theme=default" height="160"/>
 </p>
 
 ---
