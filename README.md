@@ -42,7 +42,7 @@ I'm a Data Science enthusiast with a background in Economics and a strong passio
 
 ## 🌐 Portfolio
 
-🔗 [My Portfolio](https://your-portfolio-link.com)
+🔗 [Insights by Bala](https://your-portfolio-link.com)
 
 ---
 
