@@ -32,10 +32,10 @@ I'm a Data Science enthusiast with a background in Economics and a strong passio
 ### 🩺 [HeartCare](https://github.com/yourusername/HeartCare)  
 > ML-based heart disease detection and prevention system with Flask UI.
 
-### ✨ [Image Enhancement](https://github.com/yourusername/Image-Enhancement)  
+### ✨ [Image Enhancement](https://github.com/balamurugan-cholas/Image-Enhancement-opencv.git)  
 > Image filtering and enhancement using Bilateral, Gaussian, and Median techniques.
 
-### 🛍️ [Vintage](https://github.com/yourusername/Vintage)  
+### 🛍️ [Vintage](https://github.com/balamurugan-cholas/Vintage-e-commerce.git)  
 > E-commerce front-end website for fashion built using Flask and Bootstrap.
 
 ---
