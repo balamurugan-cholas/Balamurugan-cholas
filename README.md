@@ -51,6 +51,9 @@ I'm a Data Science enthusiast with a background in Economics and a strong passio
 - **GitHub**: [github.com/yourusername](https://github.com/balamurugan-cholas)  
 - **LinkedIn**: [linkedin.com/in/yourprofile](https://in.linkedin.com/in/bala-murugan-6b73a7369)
 
+- **📚 ORCID**
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--8289--8284-a6ce39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-8289-8284)
+
 ---
 
 ## 📊 GitHub Stats
