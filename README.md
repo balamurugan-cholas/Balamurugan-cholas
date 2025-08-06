@@ -35,8 +35,8 @@ I'm a Data Science enthusiast with a background in Economics and a strong passio
 ### ✨ [Image Enhancement](https://github.com/balamurugan-cholas/Image-Enhancement-opencv.git)  
 > Image filtering and enhancement using Bilateral, Gaussian, and Median techniques.
 
-### 🛍️ [Vintage](https://github.com/balamurugan-cholas/Vintage-e-commerce.git)  
-> E-commerce front-end website for fashion built using Flask and Bootstrap.
+### 🛍️ [PDF Chatbot](https://github.com/balamurugan-cholas/Heart-care-using-ML)  
+> HeartCare is a Flask web application that predicts the presence of heart disease based on user inputs. It uses a deep learning model built with TensorFlow/Keras and is trained on the Heart Disease UCI dataset.
 
 ---
 
