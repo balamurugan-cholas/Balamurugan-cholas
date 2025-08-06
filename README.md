@@ -29,7 +29,7 @@ I'm a Data Science enthusiast with a background in Economics and a strong passio
 
 ## 📁 Projects
 
-### 🩺 [HeartCare](https://github.com/yourusername/HeartCare)  
+### 🩺 [HeartCare](https://github.com/balamurugan-cholas/Heart-care-using-ML)  
 > ML-based heart disease detection and prevention system with Flask UI.
 
 ### ✨ [Image Enhancement](https://github.com/balamurugan-cholas/Image-Enhancement-opencv.git)  
