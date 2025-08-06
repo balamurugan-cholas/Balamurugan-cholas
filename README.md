@@ -35,8 +35,8 @@ I'm a Data Science enthusiast with a background in Economics and a strong passio
 ### ✨ [Image Enhancement](https://github.com/balamurugan-cholas/Image-Enhancement-opencv.git)  
 > Image filtering and enhancement using Bilateral, Gaussian, and Median techniques.
 
-### 🛍️ [PDF Chatbot](https://github.com/balamurugan-cholas/Heart-care-using-ML)  
-> HeartCare is a Flask web application that predicts the presence of heart disease based on user inputs. It uses a deep learning model built with TensorFlow/Keras and is trained on the Heart Disease UCI dataset.
+### 🛍️ [PDF Chatbot](https://github.com/balamurugan-cholas/pdf-chatbot)  
+> This is a Flask-based chatbot web application that allows admins to upload PDF files, and users to select and extract content from these PDFs. Users can then chat with an AI assistant powered by Google's Gemini API based on the content. The application also includes admin functionalities to manage users and uploaded PDFs.
 
 ---
 
