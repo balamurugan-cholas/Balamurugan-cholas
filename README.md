@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Balamurugan
 
-I'm a Data Science enthusiast | Software Developer with a background in Economics and a strong passion for solving real-world problems using data and code. I combine my analytical mindset with practical development tools to build impactful machine learning and web-based solutions.
+I'm a Data Science enthusiast | Web Developer with a background in Economics and a strong passion for solving real-world problems using data and code. I combine my analytical mindset with practical development tools to build impactful machine learning and web-based solutions.
 
 ---
 
