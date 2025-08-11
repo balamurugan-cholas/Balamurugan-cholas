@@ -42,7 +42,7 @@ I'm a Data Science enthusiast | Web Developer with a background in Economics and
 
 ## 🌐 Portfolio
 
-🔗 [Insights by Bala](https://your-portfolio-link.com)
+🔗 [Insights by Bala](https://balamurugan-cholas.github.io/Portfolio/)
 
 ---
 
