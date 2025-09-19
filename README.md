@@ -32,7 +32,7 @@ I'm a **Data Analyst & Software Developer** with a background in Economics and a
 
 ### 📋 [NeuroDesk / Clipboard App](https://github.com/balamurugan-cholas/clipboard)
 
-> Windows desktop clipboard manager built with Python & PyQt6. Tracks copied text with timestamps, runs in background, always on top, launches on startup, and is ready-to-run as `.exe`.
+> Windows desktop clipboard manager built with electron. Tracks copied text with timestamps, runs in background, always on top, launches on startup, and is ready-to-run as `.exe`.
 
 ### 🛍️ [PDF Chatbot](https://github.com/balamurugan-cholas/pdf-chatbot)
 
